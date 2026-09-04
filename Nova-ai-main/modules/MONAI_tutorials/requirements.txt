@@ -1,8 +1,0 @@
-flake8
-papermill
-autopep8
-jupytext<=1.16.3
-autoflake
-ipywidgets
-ipykernel
-tensorboard>=2.4.0

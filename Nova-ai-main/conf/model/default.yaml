@@ -1,3 +1,0 @@
-roi: 96
-infer_overlap: 0.6
-architecture: segres_net
