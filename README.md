@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 # Neuro Nova AI
@@ -418,11 +418,15 @@ server {
 
 <div align="center">
 
-**Neuro Nova AI** — Thesis Project
+**Neuro Nova AI** — FYP Project
 
 *Built with FastAPI · Vite · MONAI · BraTS 2023*
 
 </div>
-=======
+=====================================================
 # Neuro-Nova-AI-project
->>>>>>> dff8fc1ead306fff15856215051d7acc53d3ea7c
+
+</div>
+
+Author: ZARFSHAN ATTIQ KHAN
+EMAIL:  zarfshankhan478@gmail.com
