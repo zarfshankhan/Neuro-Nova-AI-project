@@ -3,7 +3,7 @@
 
 # Neuro Nova AI
 ###  AI Powered Assistant for Brain Cancer Diagnosis & Supports  Platform
-#### Final Year Project — Software Engineering / AI in Healthcare
+#### Final Year Project — INFORMATION TECHNOLOGY / AI in Healthcare
 
 
 > *"Combining state-of-the-art deep learning with a secure, role-based clinical platform to support radiologists and patients in the diagnosis and monitoring of brain tumours."*
