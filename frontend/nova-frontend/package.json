@@ -1,0 +1,18 @@
+{
+  "name": "nova-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:backend": "cd ../.. && \"C:/Users/kotaebah/AppData/Local/Programs/Python/Python310/python.exe\" -m uvicorn api.main:app --reload --host 0.0.0.0 --port 8000",
+    "dev:all": "concurrently --kill-others --names \"BACKEND,FRONTEND\" --prefix-colors \"cyan,magenta\" \"npm run dev:backend\" \"vite\"",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12"
+  }
+}

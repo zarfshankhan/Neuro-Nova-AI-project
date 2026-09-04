@@ -1,0 +1,58 @@
+# Avoid pushing some directories like virtual enviroments and other dirs
+# And some private dirs
+segment/
+segmentation/
+literature/
+weights/
+test image/
+__pycache__/
+.vscode/
+brats23/
+
+data/
+runs/
+configs/
+test_scripts/
+outputs/
+SegResNet-runs/
+SwinUNETR-runs/
+research-contributions/
+logger/
+logger.log
+test_model.py 
+
+# Avoid pushing some common extensions mentioned here...
+*.pth
+*.pdf
+*.log
+*.csv 
+*.pt
+
+# training runs
+AttentionUnet-runs/
+ResUnetPlusPlus-runs/
+research/
+thesis/
+todo.txt
+
+# testing script custom architecture
+test_custom_models.py
+
+# test loss scripts
+test_losses.py
+data_visualization_notebook.ipynb
+plot_utils.py
+*.zip
+thesis.zip
+thesisv1/
+download_synapse.py
+.synapseCache/ # synapse dataset 
+RawData/
+segres_net_runs/
+paper_figs/
+comparison_plots.py
+ids_for_comparison.txt
+figs/
+overlay_images.py
+# subplot_results.py
+plot_subplot_each_version.py
